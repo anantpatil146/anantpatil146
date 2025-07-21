@@ -12,7 +12,6 @@
 - 👨‍💻 Full Stack Developer with expertise in **Java, Spring Boot, MERN Stack, and Android**
 - 💡 Passionate about solving real-world problems and building scalable applications
 - ☁️ Hands-on with **AWS, GCP**, and building multi-cloud architecture systems
-- 📱 Experienced in **Android app development** using Java and Firebase
 - 💬 Always exploring new technologies and frameworks to stay ahead of the curve
 
 ---
